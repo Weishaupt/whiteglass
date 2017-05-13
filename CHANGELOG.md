@@ -1,5 +1,10 @@
 # ChangeLog
 
+## HEAD
+
+- Internationalization of whiteglass.
+- Added German translation
+
 ## 1.3.0 (2017-02-20)
 
 - Fix typos of the theme description
